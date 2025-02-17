@@ -1,4 +1,6 @@
-## Hi there 👋
+## - thinking about Non-Hermitian physics and topology as applied to nanophotonics and optoelectronics
+## - currently PhDing in Aaswath Raman's group at UCLA
+
 
 <!--
 **metaphotonicbear23/metaphotonicbear23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
